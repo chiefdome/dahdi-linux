@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10735/linux/trunk/drivers/dahdi/xpp
+END
+xpp_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xpp_usb.c
+END
+card_pri.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/xpp/card_pri.c
+END
+card_fxo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/xpp/card_fxo.c
+END
+xbus-sysfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xbus-sysfs.c
+END
+xframe_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10431/linux/trunk/drivers/dahdi/xpp/xframe_queue.c
+END
+XppConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/4480/linux/trunk/drivers/dahdi/xpp/XppConfig.pm
+END
+card_pri.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/card_pri.h
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/9993/linux/trunk/drivers/dahdi/xpp/Kbuild
+END
+card_fxs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/xpp/card_fxs.c
+END
+card_fxo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10430/linux/trunk/drivers/dahdi/xpp/card_fxo.h
+END
+xframe_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/xframe_queue.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/xpp/Makefile
+END
+xpp_debug
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10152/linux/trunk/drivers/dahdi/xpp/xpp_debug
+END
+Changelog_xpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/6046/linux/trunk/drivers/dahdi/xpp/Changelog_xpp
+END
+init_card_2_30
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/7236/linux/trunk/drivers/dahdi/xpp/init_card_2_30
+END
+card_fxs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10430/linux/trunk/drivers/dahdi/xpp/card_fxs.h
+END
+xbus-pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xbus-pcm.c
+END
+print_fxo_modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/10430/linux/trunk/drivers/dahdi/xpp/print_fxo_modes.c
+END
+init_card_4_30
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/9709/linux/trunk/drivers/dahdi/xpp/init_card_4_30
+END
+xpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10484/linux/trunk/drivers/dahdi/xpp/xpd.h
+END
+xbus-pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/xbus-pcm.h
+END
+param_doc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/xpp/param_doc
+END
+mmapdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10438/linux/trunk/drivers/dahdi/xpp/mmapdrv.c
+END
+card_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/card_echo.c
+END
+xbus-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xbus-core.c
+END
+card_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/card_echo.h
+END
+xbus-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xbus-core.h
+END
+xdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/xdefs.h
+END
+dahdi_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/dahdi_debug.c
+END
+xpp.rules
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/7753/linux/trunk/drivers/dahdi/xpp/xpp.rules
+END
+dahdi_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10430/linux/trunk/drivers/dahdi/xpp/dahdi_debug.h
+END
+card_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10692/linux/trunk/drivers/dahdi/xpp/card_global.c
+END
+xproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10485/linux/trunk/drivers/dahdi/xpp/xproto.c
+END
+parport_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/xpp/parport_debug.c
+END
+init_card_1_30
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10475/linux/trunk/drivers/dahdi/xpp/init_card_1_30
+END
+card_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10474/linux/trunk/drivers/dahdi/xpp/card_global.h
+END
+init_card_3_30
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/6135/linux/trunk/drivers/dahdi/xpp/init_card_3_30
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/4408/linux/trunk/drivers/dahdi/xpp/Kconfig
+END
+xpp_dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10735/linux/trunk/drivers/dahdi/xpp/xpp_dahdi.c
+END
+xproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10435/linux/trunk/drivers/dahdi/xpp/xproto.h
+END
+init_card_5_30
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10012/linux/trunk/drivers/dahdi/xpp/init_card_5_30
+END
+parport_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/parport_debug.h
+END
+mmapbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10431/linux/trunk/drivers/dahdi/xpp/mmapbus.c
+END
+card_bri.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/xpp/card_bri.c
+END
+xpp_dahdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10658/linux/trunk/drivers/dahdi/xpp/xpp_dahdi.h
+END
+mmapbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/4408/linux/trunk/drivers/dahdi/xpp/mmapbus.h
+END
+card_bri.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10428/linux/trunk/drivers/dahdi/xpp/card_bri.h
+END
+xpp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/7236/linux/trunk/drivers/dahdi/xpp/xpp.conf
+END

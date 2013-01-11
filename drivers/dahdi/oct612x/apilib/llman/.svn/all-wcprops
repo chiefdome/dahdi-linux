@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/9428/linux/trunk/drivers/dahdi/oct612x/apilib/llman
+END
+octapi_llman_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/apilib/llman/octapi_llman_private.h
+END
+octapi_llman.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/apilib/llman/octapi_llman.c
+END

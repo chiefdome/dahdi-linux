@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/hpec
+END
+hpec_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/4712/linux/trunk/drivers/dahdi/hpec/hpec_user.h
+END
+hpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/6529/linux/trunk/drivers/dahdi/hpec/hpec.h
+END
+dahdi_echocan_hpec.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/hpec/dahdi_echocan_hpec.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/apilib
+END
+octapi_largmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/apilib/octapi_largmath.h
+END
+octapi_llman.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/apilib/octapi_llman.h
+END
+octapi_bt0.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/apilib/octapi_bt0.h
+END

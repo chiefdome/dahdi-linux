@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10700/linux/trunk/drivers/dahdi/wcte12xp
+END
+wcte12xp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10696/linux/trunk/drivers/dahdi/wcte12xp/wcte12xp.h
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/6527/linux/trunk/drivers/dahdi/wcte12xp/Kbuild
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10700/linux/trunk/drivers/dahdi/wcte12xp/base.c
+END

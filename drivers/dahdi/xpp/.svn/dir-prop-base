@@ -1,0 +1,21 @@
+K 14
+svn:executable
+V 19
+utils/zaptel-helper
+K 10
+svn:ignore
+V 136
+*.o
+*.ko
+*.cmd
+*.mod.c
+.tmp_versions
+.*.swp
+*.verified
+modules.order
+xpp_version.h
+README.Astribank.html
+print_fxo_modes
+init_fxo_modes
+
+END

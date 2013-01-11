@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/4436/linux/trunk/drivers/dahdi/datamods
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/Makefile
+END
+syncppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/4436/linux/trunk/drivers/dahdi/datamods/syncppp.c
+END
+hdlc_fr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_fr.c
+END
+hdlc_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_raw.c
+END
+hdlc_raw_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_raw_eth.c
+END
+hdlc_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_generic.c
+END
+hdlc_ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_ppp.c
+END
+hdlc_cisco.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/datamods/hdlc_cisco.c
+END

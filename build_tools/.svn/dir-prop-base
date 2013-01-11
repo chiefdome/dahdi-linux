@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 65
+menuselect-deps
+make_firmware_object
+git_test.conf
+checkpatch.pl
+
+END

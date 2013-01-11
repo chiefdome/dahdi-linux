@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/10729/linux/trunk/drivers/dahdi/wctdm24xxp
+END
+xhfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/wctdm24xxp/xhfc.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/8123/linux/trunk/drivers/dahdi/wctdm24xxp/Kbuild
+END
+wctdm24xxp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dahdi/!svn/ver/10273/linux/trunk/drivers/dahdi/wctdm24xxp/wctdm24xxp.h
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10729/linux/trunk/drivers/dahdi/wctdm24xxp/base.c
+END
+xhfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/9961/linux/trunk/drivers/dahdi/wctdm24xxp/xhfc.h
+END

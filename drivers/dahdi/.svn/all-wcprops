@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dahdi/!svn/ver/10735/linux/trunk/drivers/dahdi
+END
+dahdi-sysfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10685/linux/trunk/drivers/dahdi/dahdi-sysfs.c
+END
+wctdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10276/linux/trunk/drivers/dahdi/wctdm.c
+END
+proslic.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/7117/linux/trunk/drivers/dahdi/proslic.h
+END
+dahdi-base.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10732/linux/trunk/drivers/dahdi/dahdi-base.c
+END
+dahdi-sysfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/dahdi-sysfs.h
+END
+dahdi_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10640/linux/trunk/drivers/dahdi/dahdi_dummy.c
+END
+dahdi_echocan_kb1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/dahdi_echocan_kb1.c
+END
+wcfxo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10276/linux/trunk/drivers/dahdi/wcfxo.c
+END
+tor2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/tor2.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10463/linux/trunk/drivers/dahdi/Kbuild
+END
+adt_lec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/7309/linux/trunk/drivers/dahdi/adt_lec.c
+END
+ecdis.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/6529/linux/trunk/drivers/dahdi/ecdis.h
+END
+dahdi-version.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/9777/linux/trunk/drivers/dahdi/dahdi-version.c
+END
+pciradio.rbt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/pciradio.rbt
+END
+adt_lec.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/7309/linux/trunk/drivers/dahdi/adt_lec.h
+END
+dahdi_dynamic_ethmf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/10472/linux/trunk/drivers/dahdi/dahdi_dynamic_ethmf.c
+END
+dahdi_echocan_sec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dahdi/!svn/ver/10459/linux/trunk/drivers/dahdi/dahdi_echocan_sec2.c
+END
+arith.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/4709/linux/trunk/drivers/dahdi/arith.h
+END
+dahdi_dynamic_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10626/linux/trunk/drivers/dahdi/dahdi_dynamic_eth.c
+END
+dahdi_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10625/linux/trunk/drivers/dahdi/dahdi_dynamic.c
+END
+wct1xxp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/wct1xxp.c
+END
+dahdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/dahdi.h
+END
+dahdi_echocan_oslec.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/10458/linux/trunk/drivers/dahdi/dahdi_echocan_oslec.c
+END
+tormenta2.rbt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/tormenta2.rbt
+END
+dahdi_echocan_sec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10459/linux/trunk/drivers/dahdi/dahdi_echocan_sec.c
+END
+fir.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/4709/linux/trunk/drivers/dahdi/fir.h
+END
+dahdi-sysfs-chan.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/dahdi-sysfs-chan.c
+END
+fxo_modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/9890/linux/trunk/drivers/dahdi/fxo_modes.h
+END
+pciradio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/10273/linux/trunk/drivers/dahdi/pciradio.c
+END
+dahdi_echocan_jpah.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/dahdi_echocan_jpah.c
+END
+dahdi_echocan_mg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/dahdi_echocan_mg2.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/8103/linux/trunk/drivers/dahdi/Kconfig
+END
+tor2-hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/9584/linux/trunk/drivers/dahdi/tor2-hw.h
+END
+makefw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/4721/linux/trunk/drivers/dahdi/makefw.c
+END
+dahdi_dynamic_loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10627/linux/trunk/drivers/dahdi/dahdi_dynamic_loc.c
+END
+biquad.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/6170/linux/trunk/drivers/dahdi/biquad.h
+END
+dahdi_transcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/9585/linux/trunk/drivers/dahdi/dahdi_transcode.c
+END
+wcte11xp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/wcte11xp.c
+END

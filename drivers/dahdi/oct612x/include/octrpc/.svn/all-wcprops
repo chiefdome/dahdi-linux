@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octrpc
+END
+oct6100_rpc_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octrpc/oct6100_rpc_protocol.h
+END
+rpc_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octrpc/rpc_protocol.h
+END

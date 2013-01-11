@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/10652/linux/trunk/drivers/dahdi/xpp/firmwares
+END
+FPGA_1141.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10443/linux/trunk/drivers/dahdi/xpp/firmwares/FPGA_1141.hex
+END
+FPGA_1151.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10443/linux/trunk/drivers/dahdi/xpp/firmwares/FPGA_1151.hex
+END
+USB_FW.hex
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dahdi/!svn/ver/10550/linux/trunk/drivers/dahdi/xpp/firmwares/USB_FW.hex
+END
+FPGA_1161.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10179/linux/trunk/drivers/dahdi/xpp/firmwares/FPGA_1161.hex
+END
+USB_FW.201.hex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dahdi/!svn/ver/10535/linux/trunk/drivers/dahdi/xpp/firmwares/USB_FW.201.hex
+END
+FPGA_1161.201.hex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dahdi/!svn/ver/10652/linux/trunk/drivers/dahdi/xpp/firmwares/FPGA_1161.201.hex
+END
+USB_RECOV.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10550/linux/trunk/drivers/dahdi/xpp/firmwares/USB_RECOV.hex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dahdi/!svn/ver/10536/linux/trunk/drivers/dahdi/xpp/firmwares/Makefile
+END
+PIC_TYPE_1.hex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dahdi/!svn/ver/10337/linux/trunk/drivers/dahdi/xpp/firmwares/PIC_TYPE_1.hex
+END
+PIC_TYPE_2.hex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dahdi/!svn/ver/10179/linux/trunk/drivers/dahdi/xpp/firmwares/PIC_TYPE_2.hex
+END
+FPGA_FXS.hex
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dahdi/!svn/ver/10443/linux/trunk/drivers/dahdi/xpp/firmwares/FPGA_FXS.hex
+END
+PIC_TYPE_3.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/6653/linux/trunk/drivers/dahdi/xpp/firmwares/PIC_TYPE_3.hex
+END
+PIC_TYPE_4.hex
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/8931/linux/trunk/drivers/dahdi/xpp/firmwares/PIC_TYPE_4.hex
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/xpp/firmwares/README
+END
+LICENSE.firmware
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dahdi/!svn/ver/4315/linux/trunk/drivers/dahdi/xpp/firmwares/LICENSE.firmware
+END

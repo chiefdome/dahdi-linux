@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/wcb4xxp
+END
+wcb4xxp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10661/linux/trunk/drivers/dahdi/wcb4xxp/wcb4xxp.h
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/5856/linux/trunk/drivers/dahdi/wcb4xxp/Kbuild
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10683/linux/trunk/drivers/dahdi/wcb4xxp/base.c
+END

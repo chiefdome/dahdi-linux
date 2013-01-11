@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10290/linux/trunk/drivers/dahdi/oct612x/include
+END
+octosdependant.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octosdependant.h
+END
+digium_unused.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/digium_unused.h
+END
+octdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octdef.h
+END
+octtypevx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octtypevx.h
+END
+octtypewin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octtypewin.h
+END
+octmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octmac.h
+END
+octtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/include/octtype.h
+END

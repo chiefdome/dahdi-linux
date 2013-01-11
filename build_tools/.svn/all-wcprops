@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/10151/linux/trunk/build_tools
+END
+make_version
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/9475/linux/trunk/build_tools/make_version
+END
+test_kernel_git
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/4474/linux/trunk/build_tools/test_kernel_git
+END
+kernel-doc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/7379/linux/trunk/build_tools/kernel-doc
+END
+make_static_devs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/8033/linux/trunk/build_tools/make_static_devs
+END
+builder
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/4474/linux/trunk/build_tools/builder
+END
+genudevrules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/5124/linux/trunk/build_tools/genudevrules
+END
+live_dahdi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10151/linux/trunk/build_tools/live_dahdi
+END
+make_version_h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/4322/linux/trunk/build_tools/make_version_h
+END
+genmodconf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/4503/linux/trunk/build_tools/genmodconf
+END
+uninstall-modules
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/4575/linux/trunk/build_tools/uninstall-modules
+END
+kernel-cp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/8585/linux/trunk/build_tools/kernel-cp
+END

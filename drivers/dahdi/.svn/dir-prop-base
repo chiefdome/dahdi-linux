@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 90
+*.cmd
+*.mod.c
+*.o
+*.ko
+.tmp_versions
+radfw.h
+tor2fw.h
+makefw
+Module.symvers
+modules.order
+
+END

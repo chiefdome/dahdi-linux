@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dahdi/!svn/ver/10731/linux/trunk/include/dahdi
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dahdi/!svn/ver/4377/linux/trunk/include/dahdi/Kbuild
+END
+fasthdlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/8122/linux/trunk/include/dahdi/fasthdlc.h
+END
+wctdm_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/4709/linux/trunk/include/dahdi/wctdm_user.h
+END
+dahdi_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10472/linux/trunk/include/dahdi/dahdi_config.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10000/linux/trunk/include/dahdi/user.h
+END
+kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10731/linux/trunk/include/dahdi/kernel.h
+END

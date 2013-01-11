@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10646/linux/trunk/drivers/dahdi/voicebus
+END
+GpakCust.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10361/linux/trunk/drivers/dahdi/voicebus/GpakCust.h
+END
+GpakHpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/6527/linux/trunk/drivers/dahdi/voicebus/GpakHpi.h
+END
+vpmadtreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/6527/linux/trunk/drivers/dahdi/voicebus/vpmadtreg.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10646/linux/trunk/drivers/dahdi/voicebus/Kbuild
+END
+voicebus_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dahdi/!svn/ver/8118/linux/trunk/drivers/dahdi/voicebus/voicebus_net.h
+END
+vpmadtreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/8008/linux/trunk/drivers/dahdi/voicebus/vpmadtreg.h
+END
+vpmoct.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10618/linux/trunk/drivers/dahdi/voicebus/vpmoct.c
+END
+gpakenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/8983/linux/trunk/drivers/dahdi/voicebus/gpakenum.h
+END
+GpakApi.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/9046/linux/trunk/drivers/dahdi/voicebus/GpakApi.c
+END
+vpmoct.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/9998/linux/trunk/drivers/dahdi/voicebus/vpmoct.h
+END
+voicebus.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10273/linux/trunk/drivers/dahdi/voicebus/voicebus.c
+END
+GpakCust.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10296/linux/trunk/drivers/dahdi/voicebus/GpakCust.c
+END
+GpakApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/8983/linux/trunk/drivers/dahdi/voicebus/GpakApi.h
+END
+gpakErrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/8983/linux/trunk/drivers/dahdi/voicebus/gpakErrs.h
+END
+voicebus.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/10557/linux/trunk/drivers/dahdi/voicebus/voicebus.h
+END
+voicebus_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dahdi/!svn/ver/10096/linux/trunk/drivers/dahdi/voicebus/voicebus_net.c
+END

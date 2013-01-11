@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 37
+*.cmd
+*.o
+*.ko
+*.mod.c
+modules.order
+
+END

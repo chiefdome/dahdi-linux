@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10733/linux/trunk/drivers/dahdi/wct4xxp
+END
+wct4xxp-diag.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/7118/linux/trunk/drivers/dahdi/wct4xxp/wct4xxp-diag.c
+END
+wct4xxp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10290/linux/trunk/drivers/dahdi/wct4xxp/wct4xxp.h
+END
+vpm450m.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10560/linux/trunk/drivers/dahdi/wct4xxp/vpm450m.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10646/linux/trunk/drivers/dahdi/wct4xxp/Kbuild
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10733/linux/trunk/drivers/dahdi/wct4xxp/base.c
+END
+vpm450m.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/4712/linux/trunk/drivers/dahdi/wct4xxp/vpm450m.h
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 44
+*.cmd
+*.mod.c
+*.ko
+modules.order
+codec_test
+
+END

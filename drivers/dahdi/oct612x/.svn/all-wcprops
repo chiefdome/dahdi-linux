@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10290/linux/trunk/drivers/dahdi/oct612x
+END
+get_discards
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/get_discards
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/Makefile
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/test.c
+END
+octasic-helper
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/9138/linux/trunk/drivers/dahdi/oct612x/octasic-helper
+END

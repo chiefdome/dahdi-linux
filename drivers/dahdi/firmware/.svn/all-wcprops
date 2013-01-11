@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10618/linux/trunk/drivers/dahdi/firmware
+END
+make_firmware_object.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dahdi/!svn/ver/4383/linux/trunk/drivers/dahdi/firmware/make_firmware_object.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10618/linux/trunk/drivers/dahdi/firmware/Makefile
+END
